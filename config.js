@@ -15,7 +15,7 @@ AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 // make true if you want auto reply on status 
 AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*JUST NOW YOUR STATUS SEEN BY DARK DUMIYH-XMD...👻🤍👀📍*",
 // set the auto reply massage on status reply  
-PREFIX: process.env.PREFIX || "/",
+PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
 BOT_NAME: process.env.BOT_NAME || "DARK-DUMIYH-XMD",
 // add bot namw here for menu
