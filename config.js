@@ -9,7 +9,7 @@ SESSION_ID: process.env.SESSION_ID || "ᴅᴜᴍɪʏʜ-xᴍᴅ~2zQlRBqL#cYvQOtOv
 // add your Session Id 
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 // make true or false status auto seen
-AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
+AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true",
 // make true if you want auto reply on status 
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 // make true if you want auto reply on status 
@@ -33,7 +33,7 @@ OWNER_NAME: process.env.OWNER_NAME || "ᴄʏʙᴇʀ ʟᴏᴋᴜ ᴅᴜᴍɪʏʜ 
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄʏʙᴇʀ ᴅᴜᴍɪʏʜ ᴏꜰᴄ*",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/Cs1jYwXf/3115.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/rftvFg0V/lordali.jpg",
 // add img for alive msg
 LIVE_MSG: process.env.LIVE_MSG || "> HELLO, I'M DARK DUMIYH XMD 👋 IM ALIVE NOW*⚡",
 // add alive msg here 
