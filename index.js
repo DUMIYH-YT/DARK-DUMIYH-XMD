@@ -75,7 +75,7 @@ const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
 filer.download((err, data) => {
 if(err) throw err
 fs.writeFile(__dirname + '/sessions/creds.json', data, () => {
-console.log("Session downloaded ✅")
+console.log("DUMIYH SESSION DOWNLOADED ✅")
 })})}
 
 const express = require("express");
@@ -85,7 +85,7 @@ const port = process.env.PORT || 9090;
   //=============================================
   
   async function connectToWA() {
-  console.log("Connecting to WhatsApp ⏳️...");
+  console.log("CONNECTING TO WHATSAPP ⏳️...");
   const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/sessions/')
   var { version } = await fetchLatestBaileysVersion()
   
@@ -105,15 +105,15 @@ const port = process.env.PORT || 9090;
   connectToWA()
   }
   } else if (connection === 'open') {
-  console.log('🧬 Installing Plugins')
+  console.log('🧬 INSTALLING PLUGINS')
   const path = require('path');
   fs.readdirSync("./plugins/").forEach((plugin) => {
   if (path.extname(plugin).toLowerCase() == ".js") {
   require("./plugins/" + plugin);
   }
   });
-  console.log('Plugins installed successful ✅')
-  console.log('Bot connected to whatsapp ✅')
+  console.log('PLUGINS INSTALLED SUCCESSFUL ✅')
+  console.log('DUMIYH CONNECTED SUCCESSFUL ✅')
   
   let up = `┏━━━━━━━━━━━━━━━━━━━━━━━━━━
    *ꜱᴜᴄᴄᴇꜱꜱꜰᴜʟ ᴄᴏɴɴᴇᴄᴛ ᴛᴏ ᴡʜᴀᴛꜱᴀᴘᴘ ᴅᴜᴍɪʏʜ-xᴍᴅ*
@@ -816,7 +816,7 @@ if (!isReact && senderNumber === botNumber) {
   }
   
   app.get("/", (req, res) => {
-  res.send("BOT STARTED ✅");
+  res.send("DUMIYH STARTED ✅");
   });
   app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
   setTimeout(() => {
