@@ -45,9 +45,11 @@
   </a>
 </p>
 
+## [ BOT UPDATES AND DEVELOPER INFORMATION ] 🏳️
+
 ## 💡 FOLLOW OUR SUPORT CHANNEL
 
-<a href="https://whatsapp.com/channel/0029Vb5hKNrIyPtTkZm8dE2c><img src="https://img.shields.io/badge/JOIN%20OUR%20WHATSAPP%20CHANNEL-blue" alt="📎 JOIN OUR WHATSAPP CHANNEL" width="350"></a>
+<a href="https://whatsapp.com/channel/0029Vb5hKNrIyPtTkZm8dE2c"><img src="https://img.shields.io/badge/JOIN%20OUR%20WHATSAPP%20CHANNEL-blue" alt="📎 JOIN OUR WHATSAPP CHANNEL" width="350"></a>
 
 ## 💡 JOIN OUR SUPPORT GROUP
 
@@ -55,7 +57,7 @@
 
 ## 💡 CONTACT BOT DEVELOPER
 
-<a href="https://wa.me/+94769490765?text=ʜᴇʏ_ᴅᴜᴍɪʏʜ_ʙᴏᴛ_ᴅᴇᴠᴇʟᴏᴘᴇʀ_💞🗿"><img src="https://img.shields.io/badge/CONTACT%20BOT%20DEVELOPER%20Channel-blue" alt="📎 Join Our WhatsApp Channel" width="350"></a>
+<a href="https://wa.me/+94769490765?text=ʜᴇʏ_ᴅᴜᴍɪʏʜ_ʙᴏᴛ_ᴅᴇᴠᴇʟᴏᴘᴇʀ_💞🗿"><img src="https://img.shields.io/badge/CONTACT%20BOT%20DEVELOPER-blue" alt="📎 Join Our WhatsApp Channel" width="350"></a>
 
 <br>
 
