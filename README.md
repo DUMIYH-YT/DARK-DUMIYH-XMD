@@ -45,15 +45,26 @@
   </a>
 </p>
 
+
+
+
+
 ## [ BOT UPDATES AND DEVELOPER INFORMATION ] 🏳️
+
+
+
 
 ## 💡 FOLLOW OUR SUPORT CHANNEL
 
 <a href="https://whatsapp.com/channel/0029Vb5hKNrIyPtTkZm8dE2c"><img src="https://img.shields.io/badge/JOIN%20OUR%20WHATSAPP%20CHANNEL-blue" alt="📎 JOIN OUR WHATSAPP CHANNEL" width="350"></a>
 
+
+
 ## 💡 JOIN OUR SUPPORT GROUP
 
 <a href="https://chat.whatsapp.com/FFk3d04vQaDL7pkLg268J1"><img src="https://img.shields.io/badge/JOIN%20OUR%20WHATSAPP%20GROUP-purple" alt="📎 Join Our WhatsApp Channel" width="350"></a>
+
+
 
 ## 💡 CONTACT BOT DEVELOPER
 
