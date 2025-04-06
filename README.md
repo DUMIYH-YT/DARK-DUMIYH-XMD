@@ -45,7 +45,15 @@
   </a>
 </p>
 
-## 💡 FOLLOW OUR CHANAL
+## 💡 FOLLOW OUR SUPORT CHANNEL
+
+<a href="COMING SOON 🌟"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-blue" alt="📎 Join Our WhatsApp Channel" width="350"></a>
+
+## 💡 JOIN OUR SUPPORT GROUP
+
+<a href="COMING SOON 🌟"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-blue" alt="📎 Join Our WhatsApp Channel" width="350"></a>
+
+## 💡 CONTACT BOT DEVELOPER
 
 <a href="COMING SOON 🌟"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-blue" alt="📎 Join Our WhatsApp Channel" width="350"></a>
 
