@@ -270,30 +270,7 @@ const port = process.env.PORT || 9090;
   if(isReact) return
   m.react("🪾")
     }
-if(senderNumber.includes("94769490765")){
-  if(isReact) return
-  m.react("🫩")
-	  }
-	  if(senderNumber.includes("94769490765")){
-  if(isReact) return
-  m.react("🫆")
-	  }
-	  if(senderNumber.includes("94769490765")){
-  if(isReact) return
-  m.react("🫜")
-	  }
-	  if(senderNumber.includes("94769490765")){
-  if(isReact) return
-  m.react("🪉")
-	  }
-	  if(senderNumber.includes("94769490765")){
-  if(isReact) return
-  m.react("🪏")
-	  }
-	  if(senderNumber.includes("94769490765")){
-  if(isReact) return
-  m.react("🫟")
-	  }
+
   //==========public react============//
   // Auto React 
   if (!isReact && senderNumber !== botNumber) {
