@@ -1,46 +1,46 @@
 
-<h1 align="center">QUEEN-RISHI-MD 1.O</h1>
+<h1 align="center">DARK DUMIYH XMD 1.O</h1>
 
 <img src="https://i.ibb.co/6JBN2nKF/4388.jpg">
 
 <p align="center">
-<a href="https://github.com/RDX-DUMIYH-ID/">
+<a href="https://github.com/DUMIYH-OFC-KOD/">
 </a>
 <hr>
 
 
 <p align="center">
   </a>
-  <a href="https://github.com/RDX-DUMIYH-ID/QUEEN-RISHI-MD/fork">
-    <img src="https://img.shields.io/github/forks/RDX-DUMIYH-ID/QUEEN-RISHI-MD?label=Fork&style=social">
+  <a href="https://github.com/DUMIYH-OFC-KOD/DARK-DUMIYH-XMD/fork">
+    <img src="https://img.shields.io/github/forks/DUMIYH-OFC-KOD/DARK-DUMIYH-XMD?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/RDX-DUMIYH-ID/QUEEN-RISHI-MD/stargazers">
-    <img src="https://img.shields.io/github/stars/RDX-DUMIYH-ID/QUEEN-RISHI-MD?style=social">
+  <a href="https://github.com/DUMIYH-OFC-KOD/DARK-DUMIYH-XMD/stargazers">
+    <img src="https://img.shields.io/github/stars/DUMIYH-OFC-KOD/DARK-DUMIYH-XMD?style=social">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/RDX-DUMIYH-ID/QUEEN-RISHI-MD">
-    <img src="https://img.shields.io/github/repo-size/RDX-DUMIYH-ID/QUEEN-RISHI-MD?color=purple&label=Repo%20Size&style=plastic">
+  <a href="https://github.com/DUMIYH-OFC-KOD/DARK-DUMIYH-XMD">
+    <img src="https://img.shields.io/github/repo-size/DUMIYH-OFC-KOD/DARK-DUMIYH-XMD?color=purple&label=Repo%20Size&style=plastic">
 
   </a>
-  <a href="https://github.com/RDX-DUMIYH-ID/QUEEN-RISHI-MD">
-    <img src="https://img.shields.io/github/license/RDX-DUMIYH-ID/QUEEN-RISHI-MD?color=purple&label=License&style=plastic">
+  <a href="https://github.com/DUMIYH-OFC-KOD/DARK-DUMIYH-XMD">
+    <img src="https://img.shields.io/github/license/DUMIYH-OFC-KOD/DARK-DUMIYH-XMD?color=purple&label=License&style=plastic">
 
   </a>
-  <a href="https://github.com/RDX-DUMIYH-ID/QUEEN-RISHI-MD">
-    <img src="https://img.shields.io/github/languages/top/RDX-DUMIYH-ID/QUEEN-RISHI-MD?color=purple&label=Javascript&style=plastic">
+  <a href="https://github.com/DUMIYH-OFC-KOD/DARK-DUMIYH-XMD">
+    <img src="https://img.shields.io/github/languages/top/DUMIYH-OFC-KOD/DARK-DUMIYH-XMD?color=purple&label=Javascript&style=plastic">
 
   </a>
-  <a href="https://github.com/RDX-DUMIYH-ID/QUEEN-RISHI-MD">
-    <img src="https://img.shields.io/static/v1?label=Author&message=RDX%20DUMIYH&color=purple&style=plastic">
+  <a href="https://github.com/DUMIYH-OFC-KOD/DARK-DUMIYH-XMD">
+    <img src="https://img.shields.io/static/v1?label=AUTHOR&message=DUMIYH%20OFC&color=purple&style=plastic">
 
   </a>
   </p>
  <p align="center">
-  <a href="https://github.com/RDX-DUMIYH-ID/QUEEN-RISHI-MD">
-    <img src="https://img.shields.io/badge/OUR%20%20%20TEAM-TECHNICAL DARK%20DEVILS%20(TDD)-purple&style=plastic">
+  <a href="https://github.com/DUMIYH-OFC-KOD/DARK-DUMIYH-XMD">
+    <img src="https://img.shields.io/badge/OUR%20%20%20TEAM-KINDOM OF%20DEVILS%20(KOD)-purple&style=plastic">
 
   </a>
 </p>
