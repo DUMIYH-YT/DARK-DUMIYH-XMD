@@ -1,7 +1,7 @@
 
 <h1 align="center">DARK DUMIYH XMD 1.O</h1>
 
-<img src="https://i.ibb.co/6JBN2nKF/4388.jpg">
+<img src="https://i.ibb.co/Vcjm1Qqk/7164.jpg">
 
 <p align="center">
 <a href="https://github.com/DUMIYH-OFC-KOD/">
@@ -12,7 +12,7 @@
 <p align="center">
   </a>
   <a href="https://github.com/DUMIYH-OFC-KOD/DARK-DUMIYH-XMD/fork">
-    <img src="https://img.shields.io/github/forks/DUMIYH-OFC-KOD/DARK-DUMIYH-XMD?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/DUMIYH-OFC-KOD/DARK-DUMIYH-XMD?label=FORK&style=social">
     
   </a>
   <a href="https://github.com/DUMIYH-OFC-KOD/DARK-DUMIYH-XMD/stargazers">
@@ -22,15 +22,15 @@
 
 <p align="center">
   <a href="https://github.com/DUMIYH-OFC-KOD/DARK-DUMIYH-XMD">
-    <img src="https://img.shields.io/github/repo-size/DUMIYH-OFC-KOD/DARK-DUMIYH-XMD?color=purple&label=Repo%20Size&style=plastic">
+    <img src="https://img.shields.io/github/repo-size/DUMIYH-OFC-KOD/DARK-DUMIYH-XMD?color=purple&label=REPO%20SIZE&style=plastic">
 
   </a>
   <a href="https://github.com/DUMIYH-OFC-KOD/DARK-DUMIYH-XMD">
-    <img src="https://img.shields.io/github/license/DUMIYH-OFC-KOD/DARK-DUMIYH-XMD?color=purple&label=License&style=plastic">
+    <img src="https://img.shields.io/github/license/DUMIYH-OFC-KOD/DARK-DUMIYH-XMD?color=purple&label=LICENSE&style=plastic">
 
   </a>
   <a href="https://github.com/DUMIYH-OFC-KOD/DARK-DUMIYH-XMD">
-    <img src="https://img.shields.io/github/languages/top/DUMIYH-OFC-KOD/DARK-DUMIYH-XMD?color=purple&label=Javascript&style=plastic">
+    <img src="https://img.shields.io/github/languages/top/DUMIYH-OFC-KOD/DARK-DUMIYH-XMD?color=purple&label=JAVASCRIPT&style=plastic">
 
   </a>
   <a href="https://github.com/DUMIYH-OFC-KOD/DARK-DUMIYH-XMD">
