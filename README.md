@@ -1,7 +1,7 @@
 
 <h1 align="center">DARK DUMIYH XMD 1.O</h1>
 
-<img src="https://i.ibb.co/Vcjm1Qqk/7164.jpg">
+<img src="https://i.ibb.co/Vcjm1Qqk/7164.jpg.">
 
 <p align="center">
 <a href="https://github.com/DUMIYH-OFC-KOD/">
