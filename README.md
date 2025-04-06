@@ -47,25 +47,6 @@
 
 
 
-
-
-## [ BOT UPDATES AND DEVELOPER INFORMATION ] 🏳️
-
-
-
-
-## 💡 FOLLOW OUR SUPORT CHANNEL
-
-<a href="https://whatsapp.com/channel/0029Vb5hKNrIyPtTkZm8dE2c"><img src="https://img.shields.io/badge/JOIN%20OUR%20WHATSAPP%20CHANNEL-blue" alt="📎 JOIN OUR WHATSAPP CHANNEL" width="350"></a>
-
-
-
-## 💡 JOIN OUR SUPPORT GROUP
-
-<a href="https://chat.whatsapp.com/FFk3d04vQaDL7pkLg268J1"><img src="https://img.shields.io/badge/JOIN%20OUR%20WHATSAPP%20GROUP-purple" alt="📎 Join Our WhatsApp Channel" width="350"></a>
-
-
-
 ## 💡 CONTACT BOT DEVELOPER
 
 <a href="https://wa.me/+94769490765?text=ʜᴇʏ_ᴅᴜᴍɪʏʜ_ʙᴏᴛ_ᴅᴇᴠᴇʟᴏᴘᴇʀ_💞🗿"><img src="https://img.shields.io/badge/CONTACT%20BOT%20DEVELOPER-blue" alt="📎 Join Our WhatsApp Channel" width="350"></a>
@@ -74,21 +55,21 @@
 
 <div align="center">
  
-  <h1>👇 DEPLOY NOW 👇</h1>
+  <h1>🏳️ DEPLOY NOW 🏳️</h1>
 </div>
 
 <br>
 
-## 🎀 STEP 01 -  Fork The Repo
+## 🎀 STEP 01 -  FORK THE REPO
 
-<a href="https://github.com/RDX-DUMIYH-ID/QUEEN-RISHI-MD/fork"><img src="https://img.shields.io/badge/Fork%20Repo-blue" alt="FORK RISHI MD REPO" width="150"></a>
+<a href="https://github.com/DUMIYH-OFC-KOD/DARK-DUMIYH-XMD/fork"><img src="https://img.shields.io/badge/Fork%20Repo-blue" alt="FORK DUMIYH XMD" width="150"></a>
 </br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <br>
 
-## DEPLOY BY SESSION ID (Qr code)
+## DEPLOY BY SESSION ID ( PAIR WEB )
 
-<a href="COMING SOON 🌟"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="QR-CODE 1" border="2" width="170" height="40" ></a>
+<a href="https://dark-dumiyh-xmd-pair-web.onrender.com"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="QR-CODE 1" border="2" width="170" height="40" ></a>
 
 <hr>
 <hr>
